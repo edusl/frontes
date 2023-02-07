@@ -1,6 +1,6 @@
 ---
-title: This is a fifth post (draft)
+title: Entrada de prueba
 date: 2023-01-23
 draft: true
 ---
-This is a draft post
+lorem ipsum

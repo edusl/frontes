@@ -1,9 +1,9 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Me
+  key: Sobre
   order: 3
 ---
-# About Me
+# Sobre front.es
 
-I am a person that writes stuff.
+Próximamente ;)
